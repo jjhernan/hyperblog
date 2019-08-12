@@ -1,0 +1,3 @@
+Hello!
+I´m GEorge HErnández, i 32 years old and 
+rigth now I´m learing to use GIT
