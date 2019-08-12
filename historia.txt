@@ -1,3 +1,5 @@
 Hello!
-I´m GEorge HErnández, i 32 years old and 
+I´m George HErnández, i´m 33 years old and 
 rigth now I´m learing to use GIT
+
+i born in Mexico City
